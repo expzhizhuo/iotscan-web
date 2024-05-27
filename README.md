@@ -41,3 +41,18 @@ pnpm preview:stage
 # prod environment
 pnpm preview:prod
 ```
+
+## 界面展示
+
+![image-20240527131428007](./images/image-20240527131428007.png)
+
+![image-20240527131440378](./images/image-20240527131440378.png)
+
+![image-20240527131823450](./images/image-20240527131823450.png)
+
+![image-20240527131840315](./images/image-20240527131840315.png)
+
+![image-20240527131920020](./images/image-20240527131920020.png)
+
+![image-20240527131929228](./images/image-20240527131929228.png)
+
