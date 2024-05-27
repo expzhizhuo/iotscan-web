@@ -41,7 +41,3 @@ pnpm preview:stage
 # prod environment
 pnpm preview:prod
 ```
-
-## 简述
-
-这是一个vue3+pinia+elementui-plus+vite构建的一个web前端项目。
